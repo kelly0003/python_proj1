@@ -1,6 +1,6 @@
 # python_proj1
 
-This is a console-based Hangman game written in Python, where players guess letters in a hidden word, and the game visualizes the progress using a "hangman" image for each incorrect guess. Below is a breakdown of the project, including the types of code and structures used, as well as a summary of how the game operates. 
+This is a console-based Hangman game written in Python, where players guess letters in a hidden word, and the game visualizes the progress using a "hangman" image for each incorrect guess. Below a summary of how the game operates. 
 
 Python Programming Language: The entire game is built using Python, which is well suited for console-based text games. It allows for easy manipulation of data structures. 
 
