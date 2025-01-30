@@ -1,3 +1,4 @@
+#hangman game
 import random
 
 #word list
